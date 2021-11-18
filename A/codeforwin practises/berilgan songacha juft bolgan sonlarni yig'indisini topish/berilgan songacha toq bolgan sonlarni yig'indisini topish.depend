@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624938795 source:f:\projects\c\a\codeforwin practises\berilgan songacha toq bolgan sonlarni yig'indisini topish\main.c
+	<stdio.h>
+	<stdlib.h>
+

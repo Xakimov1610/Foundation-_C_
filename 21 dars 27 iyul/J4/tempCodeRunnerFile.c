@@ -1,0 +1,1 @@
+ yigindi+=son%10;

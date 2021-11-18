@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624096827 source:f:\projects\c\dars6\dars6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626093429 source:f:\projects\c\14 dars 8 iyun\uyga vazifa osonroqlari\a19 foydalanuvchi n son kiritadi. -n dan n gacha bo'lgan sonlarni ekranga chiqarish\main.c
+	<stdio.h>
+	<stdlib.h>
+

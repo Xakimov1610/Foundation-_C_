@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624529302 source:f:\projects\c\dars8\dars8.2kalkulator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624082417 source:f:\projects\c\dars3\hourminutesecond\main.c
+	<stdio.h>
+	<stdlib.h>
+

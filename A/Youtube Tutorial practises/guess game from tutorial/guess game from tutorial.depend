@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624852165 source:f:\projects\c\a\guess game from tutorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624706958 source:f:\projects\c\dars8\masala9.3\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625809493 source:f:\projects\c\14 dars 8 iyun\uyga vazifa osonroqlari\a11 foydalanuvchi 2 ta son kiritadi. shu sonlarning ayirmasidan modul oling.\main.c
+	<stdio.h>
+	<stdlib.h>
+

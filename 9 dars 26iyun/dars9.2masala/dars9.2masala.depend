@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624702833 source:f:\projects\c\dars8\dars9.2masala\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

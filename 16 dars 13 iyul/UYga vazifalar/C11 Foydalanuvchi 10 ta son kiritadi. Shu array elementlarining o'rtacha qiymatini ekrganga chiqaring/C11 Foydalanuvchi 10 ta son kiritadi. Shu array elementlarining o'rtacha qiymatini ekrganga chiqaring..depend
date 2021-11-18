@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626269569 source:f:\projects\c\mashq uchun\c11 foydalanuvchi 10 ta son kiritadi. shu array elementlarining o'rtacha qiymatini ekrganga chiqaring.\main.c
+	<stdio.h>
+	<stdlib.h>
+

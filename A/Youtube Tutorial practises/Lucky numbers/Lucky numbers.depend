@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624853882 source:f:\projects\c\a\youtube tutorial practises\lucky numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

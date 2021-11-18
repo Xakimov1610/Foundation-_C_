@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624273769 source:f:\projects\c\dars6\guessnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624533431 source:f:\projects\c\dars8\dars8.3switchcase\main.c
+	<stdio.h>
+	<stdlib.h>
+

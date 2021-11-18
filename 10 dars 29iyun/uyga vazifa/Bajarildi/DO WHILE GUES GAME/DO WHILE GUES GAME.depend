@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1625011491 source:f:\projects\c\dars10.29iyun\uyga vazifa\do while gues game\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1625136738 source:f:\projects\c\dars10.29iyun\uyga vazifa\bajarildi\do while gues game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

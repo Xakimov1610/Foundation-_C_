@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626326002 source:f:\projects\c\16 dars 13 iyul\user arrayda nechtaligini va sonlarni kiritadi va juft sonni kamayish tartibda boladi\main.c
+	<stdio.h>
+	<stdlib.h>
+

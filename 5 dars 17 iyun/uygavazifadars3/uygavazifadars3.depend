@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624018598 source:f:\projects\c\dars3\uygavazifadars3\main.c
+	<stdio.h>
+	<stdlib.h>
+

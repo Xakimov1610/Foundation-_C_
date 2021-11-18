@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624717627 source:f:\projects\c\dars8\homework2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+

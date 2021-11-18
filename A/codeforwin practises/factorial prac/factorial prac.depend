@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624965535 source:f:\projects\c\a\codeforwin practises\factorial prac\main.c
+	<stdio.h>
+	<stdlib.h>
+

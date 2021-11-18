@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624940546 source:f:\projects\c\a\codeforwin practises\login parol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

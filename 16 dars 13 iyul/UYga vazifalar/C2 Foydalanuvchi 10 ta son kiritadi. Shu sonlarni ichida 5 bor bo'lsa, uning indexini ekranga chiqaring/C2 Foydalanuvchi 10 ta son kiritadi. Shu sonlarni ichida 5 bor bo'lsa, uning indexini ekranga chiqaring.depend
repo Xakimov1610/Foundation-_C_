@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626239927 source:f:\projects\c\16 dars 13 iyul\c2 foydalanuvchi 10 ta son kiritadi. shu sonlarni ichida 5 bor bo'lsa, uning indexini ekranga chiqaring\main.c
+	<stdio.h>
+	<stdlib.h>
+
